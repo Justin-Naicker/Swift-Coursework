@@ -23,6 +23,3 @@ print(array)
 print("Would you like to add another number? :: ", terminator: "")
 answer = readLine(strippingNewline: true)!
 }
-
-
-11
